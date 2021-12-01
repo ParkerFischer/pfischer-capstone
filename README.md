@@ -1,4 +1,5 @@
 # Restaurant Reservation App
+https://parkerf-capstone-frontend.herokuapp.com/dashboard
 
 ## Description
 Bootcamp capstone: an enterprise application for restaurants, allowing users to create, update, view, delete reservations, as well as seat them at various tables within the restaurant. Showcases outside-in development using the PERN technology stack (Postgres, Express, React, Node).
