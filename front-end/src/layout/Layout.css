@@ -1,0 +1,102 @@
+.side-bar {
+  background-color: #1d3557;
+  min-width: 200px;
+}
+
+.hide {
+  color: #1d3557;
+}
+span {
+  color: #e63946;
+  font-size: 25px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.body {
+  background-color: #f1faee;
+}
+.background {
+  background-color: #f1faee;
+  background-image: url("../img/Peace Burger Co 1.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+p,
+h4,
+h1,
+h2,
+h3 {
+  font-family: "Work sans";
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:visited,
+.btn-secondary:focus {
+  background-color: #e63946;
+  border: #e63946;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: #f1faee;
+}
+
+.btn-secondary:hover {
+  background-color: #a8dadc;
+  border: #a8dadc;
+  color: black;
+  box-shadow: 0 8px 16px 0 rgba(29, 53, 87, 0.027),
+    0 6px 20px 0 rgba(29, 53, 87, 0.329);
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  background-color: #a8dadc;
+  border: #a8dadc;
+
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #1d3557;
+  border: #1d3557;
+  color: #f1faee;
+}
+
+.tableCard {
+  background-color: #457b9d;
+  opacity: 0.9;
+  border-radius: 40px;
+}
+
+div.tableCard p {
+  font-weight: bolder;
+  color: black;
+}
+
+.resCard {
+  background-color: #457b9d;
+  opacity: .9;
+  border-radius: 40px;
+}
+
+div.resCard p {
+  font-weight: bolder;
+  color: black;
+}
+
+.statusCard {
+  background-color: #f1faee;
+
+  border-radius: 40px;
+}
+
+input {
+  border-radius: 40px;
+}
